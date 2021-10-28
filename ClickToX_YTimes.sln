@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickToX_YTimes", "ClickToX_YTimes\ClickToX_YTimes.csproj", "{97D447A9-8B4A-4F86-9DAD-74A60DD029F2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ClickToX_YTimesSetup", "ClickToX_YTimesSetup\ClickToX_YTimesSetup.vdproj", "{0BCC1F55-8FE8-4E8B-B984-22ABF3C82022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D447A9-8B4A-4F86-9DAD-74A60DD029F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D447A9-8B4A-4F86-9DAD-74A60DD029F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D447A9-8B4A-4F86-9DAD-74A60DD029F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D447A9-8B4A-4F86-9DAD-74A60DD029F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCC1F55-8FE8-4E8B-B984-22ABF3C82022}.Debug|Any CPU.ActiveCfg = Debug
+		{0BCC1F55-8FE8-4E8B-B984-22ABF3C82022}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED8B9A7-FDB3-4501-B812-F5DD1297C251}
+	EndGlobalSection
+EndGlobal
